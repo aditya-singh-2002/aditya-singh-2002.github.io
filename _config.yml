@@ -3,7 +3,7 @@ title: Aditya Singh
 email: adityasinghdhs@gmail.com
 url: aditya-singh-2002.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+keywords: "web development, gaming, programming, technology, computer science, cs, rutgers university, rutgers"
 skills: "Amateur Developer - Gamer"
 meta_author: Singh Aditya
 
@@ -47,8 +47,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Jersey City, NJ 07305
+  
 
 # Build settings
 markdown: kramdown
