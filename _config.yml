@@ -1,11 +1,11 @@
 # Site settings
-title: Amateur Developer
+title: Aditya Singh
 email: adityasinghdhs@gmail.com
 url: aditya-singh-2002.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Amateur Developer - Gamer"
-meta_author: LastName FirstName
+meta_author: Singh Aditya
 
 # Google webmaster tools
 google_verify:
@@ -36,16 +36,15 @@ social:
     url: https://www.linkedin.com/in/aditya-singh-8b47a6271/
   - title: instagram
     url: https://www.instagram.com/grasshopperval/
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: twitter
+    url: https://twitter.com/YoungGrasshopa1
   - title: github
     url: https://github.com/aditya-singh-2002
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Jersey City, NJ 07305
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
