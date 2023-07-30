@@ -22,7 +22,7 @@ $message = $_POST['message'];
 
 if (empty($_POST['_gotcha'])) { // If hidden field was filled out (by spambots) don't send!
     // Create the email and send the message
-    $to = 'adityasinghdhs@gmail.com'; 
+    $to = 'aas425@scarletmail.rutgers.edu'; 
     $email_subject = "Website Contact Form:  $name";
     $email_body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
     $headers = "From: noreply@yourdomain.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
