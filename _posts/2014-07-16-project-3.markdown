@@ -2,9 +2,9 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: 
-alt: 
-project-date: 
-category: 
-description: 
+img: SC1.PNG
+alt: image-alt
+project-date: 2023 
+category: Virtual Cart
+description: Responsive online shopping cart enabling product selection, cart management, price computation, and validation. Incorporated features such as responsive design and automated confirmation emails to enhance the user experience and streamline the purchasing process.
 ---
