@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 2023
 roles: Project Manager and Lead Backend/Tech Lead
 category: Educational Platform Prototype
-description: Our team has been tasked with creating an educational learning platform inspired by Chegg to provide users with easy access to academic resources and assistance. Our platform aims to streamline the learning experiences Rutgers provides by offering a wide range of study materials, including homework tools, textbook resources, and expert assistance. With a user-friendly interface and focus on accessibility, we are dedicated to making students of all majors feel comfortable on their journey through college.
+description: Our team has been tasked with creating an educational learning platform inspired by Chegg to provide users with easy access to academic resources and assistance. Our platform aims to streamline the learning experiences Rutgers provides by offering a wide range of study materials, including homework tools, textbook resources, and expert assistance. With a user-friendly interface and focus on accessibility, we are dedicated to making students of all majors feel comfortable on their journey through college. Check it out :D (https://brain-link.netlify.app/)
 
 ---
