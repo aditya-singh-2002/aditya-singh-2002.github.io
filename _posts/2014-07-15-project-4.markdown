@@ -1,10 +1,10 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2014-07-16
 img: NBA.PNG
 alt: image-alt
 project-date: 2023 
 category: Data Analytics
-description: 
+description: Developed a comprehensive NBA statistics application using Android Studio, enabling in-depth analysis of player performance metrics.
 ---
