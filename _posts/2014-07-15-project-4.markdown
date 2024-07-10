@@ -4,7 +4,7 @@ modal-id: 4
 date: 2014-07-16
 img: NBA.PNG
 alt: image-alt
-project-date: 2023 
+project-date: 2024 
 category: Data Analytics
 description: Developed a comprehensive NBA statistics application using Android Studio, enabling in-depth analysis of player performance metrics. Designed intuitive UI for easy navigation and detailed stats visualization, enhancing user experience for sports analysts and enthusiasts. Ensured data accuracy and relevance, allowing users to make informed decisions for betting purposes, improving their chances of success in straight bets or parlays. 
 ---
