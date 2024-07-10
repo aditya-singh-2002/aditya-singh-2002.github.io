@@ -1,11 +1,13 @@
----
+**---
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: NBA.PNG
 alt: image-alt
-project-date: April 2014
+project-date: 2023
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Data Analytics
+description: Developed a comprehensive NBA statistics application using Android Studio, enabling in-depth analysis of player performance metrics. Designed intuitive UI for easy navigation and detailed stats visualization, 
+enhancing user experience for sports analysts and enthusiasts. Ensured data accuracy and relevance, allowing users to make informed decisions for betting purposes, improving their chances of success in straight bets and parlays.
 ---
+**
