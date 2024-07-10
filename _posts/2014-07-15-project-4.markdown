@@ -2,9 +2,10 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: SC1.PNG
+img: NBA.PNG
 alt: image-alt
 project-date: 2023 
-category: Virtual Cart
-description: Responsive online shopping cart enabling product selection, cart management, price computation, and validation. Incorporated features such as responsive design and automated confirmation emails to enhance the user experience and streamline the purchasing process.
+category: Data Analytics
+description: Developed a comprehensive NBA statistics application using Android Studio, enabling in-depth analysis of player performance metrics. Designed intuitive (UI) for easy navigation and detailed stats visualization, enhancing user experience for sports analysts and enthusiasts. Ensured data accuracy and relevance, allowing users to make informed decisions for betting purposes, improving their chances of success in
+straight bets and parlays.
 ---
